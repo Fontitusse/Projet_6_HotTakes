@@ -2,7 +2,7 @@
 <div><strong>Technologies : </strong></div>
 <ul>
   <li>Framework: Express ;</li>
-  <li>Serveur: NodeJS li>
+  <li>Serveur: NodeJS ;</li>
   <li>Base de données: MongoDB ;</li>
   <li>Javascript.</li>
 </ul>
